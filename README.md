@@ -8,3 +8,15 @@ This code includes:
 3. Multiple subjects correlation matrices (4 datasets)
 4. Sklearn.manifold.MDS was applied
 5. Graph Representation 
+
+
+Other useful links to MDS: 
+
+https://github.com/stober/mds
+https://github.com/fredcallaway/brain_matrix
+https://github.com/drewwilimitis/hyperbolic-learning
+https://github.com/GeostatisticsLessons/GeostatisticsLessonsNotebooks/blob/master/notebooks/mds/mds.ipynb
+https://github.com/swethapola/Multidimensional-Scaling
+https://towardsdatascience.com/mds-multidimensional-scaling-smart-way-to-reduce-dimensionality-in-python-7c126984e60b
+https://stackabuse.com/guide-to-multidimensional-scaling-in-python-with-scikit-learn/
+http://www.nervouscomputer.com/hfs/cmdscale-in-python/
